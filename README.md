@@ -23,4 +23,5 @@ To migrage / update DB structure:
 
 CRUD DB operation:
   **sqlc generate**
-  
+
+Thank you.  
